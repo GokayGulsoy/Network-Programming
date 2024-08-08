@@ -18,4 +18,4 @@
 
 After week 8 textbook named `The Definitive Guide to Linux Network Programming` is followed
 
-Textbooks can be found on: [Course textbook](/Textbook/textbook.pdf)
+Textbooks can be found on: [Course textbook](/Textbooks)
